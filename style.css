@@ -1,0 +1,95 @@
+#header{
+    background-color: rgb(23, 52, 122);
+    height: 170px;
+}
+
+#header-img{
+    position: relative;
+    top: 7px;
+    left: 20px;
+    height: 150px;
+    width:90px;
+    border-radius: 50%;
+}
+
+#heading{
+    position: relative;
+    left: 340px;
+    bottom: 180px;
+    font-size: 70px;
+    color: white;
+}
+
+#big-img{
+    width: 1410px;
+    height: 600px;
+}
+#options{
+    position: relative;
+    background-color: antiquewhite;
+    height: 100px;
+    bottom: 70px;
+
+}
+#op1{
+    font-size: 40px;
+    position: relative;
+    top: 30px;
+    text-decoration: underline;
+    left: 40px;
+
+}
+#op1:hover{
+    cursor: pointer;
+}
+#op2{
+    font-size: 40px;
+    position: relative;
+    bottom: 60px;
+    left: 570px;
+    text-decoration: underline;
+}
+#op2:hover{
+    cursor: pointer;
+}
+#op3{
+    font-size: 40px;
+    position: relative;
+    bottom: 145px;
+    left: 980px;
+    text-decoration: underline;
+}
+#op3:hover{
+    cursor: pointer;
+}
+#about-us{
+    font-size: 70px;
+    position: relative;
+    left: 220px;
+    bottom: -40px;
+}
+#CONTENT1{
+    position: relative;
+    left: 309px;
+    height: 100px;
+    width: 780px;
+    bottom: 160px;
+}
+#content1{
+    font-size: 20px;
+}
+#content2{
+    font-size: 20px;
+}
+#content3{
+    font-size: 20px;
+}
+#content4{
+    font-size: 20px;
+}
+#content5{
+    font-size: 20px;
+}
+
+
+
